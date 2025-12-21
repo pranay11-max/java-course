@@ -47,6 +47,14 @@ public class student {
         System.out.println("\n");
 
         s4.showDetails();
+
+
+        // int n=20;
+        // int v=30;
+
+        // calculator c = new calculator();
+
+        // System.out.println("Addition : "+c.addition(n, v));
         
     }
 }
